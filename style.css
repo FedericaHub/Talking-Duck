@@ -80,6 +80,8 @@ button:disabled {
 
 button img {
   vertical-align: middle;
+  width: 100%;
+  accent-color: white;
 }
 
 /* Audio controls */
