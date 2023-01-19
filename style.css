@@ -70,7 +70,7 @@ button {
   border-radius: 8px;
   width: 64px;
   height: 56px;
-  background-color: var(--pink); 
+  background-color: var(--pink);
 }
 
 button:disabled {
@@ -80,8 +80,8 @@ button:disabled {
 
 button img {
   vertical-align: middle;
-  width: 100%;
-  accent-color: white;
+  /* width: 100%; */
+  /* accent-color: white; */
 }
 
 /* Audio controls */
